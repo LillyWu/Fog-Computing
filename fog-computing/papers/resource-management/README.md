@@ -1,1 +1,1 @@
-This fold is for resource management in fog computing
+This folder is for resource management in fog computing
