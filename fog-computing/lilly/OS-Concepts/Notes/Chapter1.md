@@ -67,7 +67,7 @@ To start an I/O operation: `device driver` loads the appropriate registers withi
 
 
 # Computer-System Architecture
-![](images/computer system workflow.png)
+![Alt](images/computer system workflow.png)
 
 ## Single-Processor Systems
 
